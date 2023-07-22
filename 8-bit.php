@@ -19,6 +19,7 @@
         <img src="./img/banner.png" alt="">
       </div>
     </section>
+    
 <section id="about-head" class="section-p1">
     <img src="./img/8bit-logo.png" alt="">
     <div>
