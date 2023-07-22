@@ -17,7 +17,6 @@ ob_start();
 <td colspan="11">&nbsp;</td>
    </tr>
   </table>
-  
  <table border="0" width="100%" >
  
    <tr>
