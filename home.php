@@ -9,7 +9,6 @@ shuffle($product_suffel);?>
 
 <?php endif ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 
